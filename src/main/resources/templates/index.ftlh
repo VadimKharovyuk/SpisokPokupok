@@ -29,7 +29,6 @@
 
         </#list>
 
-
     </table>
 
 </div>
