@@ -26,7 +26,6 @@
                 <td>${customer.price}</td>
             </tr>
 
-
         </#list>
 
     </table>
@@ -34,11 +33,12 @@
 </div>
 
     <form action="/" method="post">
-        <input name="name" placeholder=" название товара">
+        <input name="name"class="btn btn-light" placeholder=" название товара">
         <input name="price"placeholder="цена">
         <input type="submit"class="btn btn-outline-danger" value="add product">
 
 </form>
+<img src="https://www.zdnet.com/a/img/resize/3d592ccc41548d3a3a887d179d70ce991a7a8673/2023/01/20/bdf05afc-fc5a-431b-ae5d-9f5d0bb0eb15/model3.jpg?auto=webp&fit=crop&height=900&width=1200">
 
 </body>
 
